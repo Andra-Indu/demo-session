@@ -1,0 +1,28 @@
+Table creation Tags:
+-----------------------
+
+1.<table> tag -->used to create a table
+<thead> tag   -->used to create the header of the table
+<tbody> tag   --> used to create the body of the table
+<tfoot> tag   --> used to create the footer of the table
+<tr> tag      -->used to create  a row
+<th> tag      -->used to create a header cell
+<td> tag      -->used to create a data cell
+<caption> tag -->used to create a caption for the table
+
+Margin of a cell:
+---------------------
+1.colspan attribute --> used to merge a cell horizontally
+2.rowspan attribute --> used to merge a cell vertically
+
+Attributes of table tags:
+-----------------------------------------
+1.border
+2.cell spacing  --> used to provide space between cell to cell
+3.cell padding  --> used to provide space between cell and border
+4.align         --> used to align the content horizontally(left,centre,right)
+5.bgcolor       --> used to provide background color
+6.style         --> used to provide styling
+
+pseudo Clases:
+----------------
